@@ -47,16 +47,16 @@ li a {
 }
 
     /* The hero image */
-.hero-image {
+.hero-image-desktop {
     /* The image used */
     background-image: url(resources/Naked_Wedding_Cake.png);
 
     /* Set a specific height */
-    height: 50%;
+    height: 1669px;
 
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position: static;
 }
